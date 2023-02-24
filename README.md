@@ -1,6 +1,6 @@
 # Tracalorie App
 
-Vanilla JavaScript calorie tracking application from my [Modern JavaScript From The Beginning course](https://www.traversymedia.com/). Created to practice JavaScript OOP and module bundling with webpack.
+Vanilla JavaScript calorie tracking application from my [Modern JavaScript From The Beginning course](https://www.traversymedia.com/). Created to practice JavaScript OOP and module bundling with Webpack.
 
 View the live application [here](https://silver-faun-554568.netlify.app/).
 
